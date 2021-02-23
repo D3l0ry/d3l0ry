@@ -2,5 +2,5 @@
 <h3>Welcome to my GitHub account. I am a developer of Open Source projects in C#. I like to develop libraries and applications that will make it easier for other developers who use my tools to write their own programs. All my projects can be viewed in my profile!</h3>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=D3l0ry&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=D3l0ry&hide_border=true&show_icons=true&theme=tokyonight">
 </p>
